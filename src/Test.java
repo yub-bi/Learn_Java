@@ -9,8 +9,10 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("good");
-        System.out.print(1);
-        System.out.println("sout");
+
+        int a = 10;
+        System.out.println(a);
+
 //        'ctrl+/'
         /*
         *
