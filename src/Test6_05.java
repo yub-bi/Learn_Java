@@ -137,7 +137,7 @@ public class Test6_05 {
     }
     System.out.println("정답입니다!");*/
 
-    // 영화 티켓 예매
+    /*// 영화 티켓 예매
     Scanner sc = new Scanner(System.in);
 
     System.out.println("영화 제목을 입력해주세요.");
@@ -157,6 +157,7 @@ public class Test6_05 {
     System.out.println("예매자 이름 : " + name);
     System.out.println("예매자 전화번호 : " + phoneNum);
 
-    System.out.println("총 결제 금액 : " + (people * 10000) + "원");
+    System.out.println("총 결제 금액 : " + (people * 10000) + "원");*/
+
   }
 }
