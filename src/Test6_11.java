@@ -23,7 +23,6 @@ public class Test6_11 {
 
     person1.cheating(student);*/
 
-
     Scanner sc = new Scanner(System.in);
 
     System.out.println("계좌번호를 입력하세요.");
@@ -38,7 +37,6 @@ public class Test6_11 {
     account.printBalance();
 
     sc.close();
-
   }
 
   /* // 사칙연산
